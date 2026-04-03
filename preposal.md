@@ -2,8 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-recreating few favorite board game
-(i dont know if this count as too simple)
+recreating snakes & ladder
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
