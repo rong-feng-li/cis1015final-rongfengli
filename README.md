@@ -16,3 +16,6 @@ it was quite a headache, but I am glad that I somehow made it happen after spend
 And I am happy with the way it turns out. If I have more time, I would probably give more variables for the blue space, such as row and column. 
 giving another special dice where it is a high risk, high reward (-5,-3,-1,6,7,9), and maybe even a more special dice where you can choose a specific number to roll for
 and somehow make the line vary by a few degrees, as they overlap each other when there are more than two pointing horizontally 
+
+Credit to razormist again for what mine is based on
+https://www.sourcecodester.com/python/18541/snakes-and-ladders-game-using-pygame-python-source-code.html
