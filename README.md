@@ -1,5 +1,5 @@
-# cis1015final-rongfengli
-cis 1015 final project
+# cis1051final-rongfengli
+cis 1051 final project
 
 So my biggest challenge is just learning how to use pygame from 0, as even looking at some of the examples from others, it was still difficult to make sense of it
 My second biggest challenge is debugging, as my pygame is built off of razormist's example, as credited to razormist, it would not be possible without his example. 
